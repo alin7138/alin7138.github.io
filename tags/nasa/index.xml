@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nasa on A L I C E • L I N</title>
+    <link>/tags/nasa/</link>
+    <description>Recent content in nasa on A L I C E • L I N</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 May 2020 18:17:26 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/nasa/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NASA DEVELOP</title>
+      <link>/post/nasa-develop/</link>
+      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
+      
+      <guid>/post/nasa-develop/</guid>
+      <description>DEVELOP is a capacity building initiative under NASA&amp;rsquo;s Applied Sciences Program. As a participant, I undertook research projects that focus on the utility of earth observations in alleviating environmental issues. This program allowed me to gain knowledge and skills in remote sensing, coding, data visualization, and scientific writing. I also gained experience in engaging with stakeholders to identify and understand problems that could benefit from geospatial solutions.
+Projects Assessing Coastal Water Quality in Belize&amp;rsquo;s Coral Reefs</description>
+    </item>
+    
+  </channel>
+</rss>
