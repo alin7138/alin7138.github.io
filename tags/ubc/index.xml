@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ubc on Alice Lin</title>
+    <title>ubc on A L I C E • L I N</title>
     <link>/tags/ubc/</link>
-    <description>Recent content in ubc on Alice Lin</description>
+    <description>Recent content in ubc on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
@@ -17,7 +17,20 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/mangroves-water-quality-in-cambodia/</guid>
-      <description></description>
+      <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
+Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
+Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
+    </item>
+    
+    <item>
+      <title>Mangroves &amp; Water Quality in Cambodia</title>
+      <link>/post/mangroves-water-quality-in-cambodia/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/mangroves-water-quality-in-cambodia/</guid>
+      <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
+Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
+Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
     </item>
     
   </channel>
