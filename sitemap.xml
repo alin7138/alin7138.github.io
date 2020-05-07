@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/post/nasa-develop/</loc>
     <lastmod>2020-05-04T18:17:26-07:00</lastmod>
   </url>
@@ -25,49 +31,44 @@
   </url>
   
   <url>
-    <loc>/post/mangroves-water-quality-in-cambodia/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/mangroves-water-quality-in-cambodia/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/remotesensing/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/research/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/ubc/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/waterquality/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-    <priority>0</priority>
+    <loc>/post/mangroves-water-quality-in-cambodia/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
