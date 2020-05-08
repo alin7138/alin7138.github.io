@@ -2,93 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A L I C E • L I N</title>
-    <link>/tags/</link>
+    <link>http://example.org/tags/</link>
     <description>Recent content in Tags on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cartography</title>
-      <link>/tags/cartography/</link>
+      <link>http://example.org/tags/cartography/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/cartography/</guid>
+      <guid>http://example.org/tags/cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geospatial</title>
-      <link>/tags/geospatial/</link>
+      <link>http://example.org/tags/geospatial/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/geospatial/</guid>
+      <guid>http://example.org/tags/geospatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gis</title>
-      <link>/tags/gis/</link>
+      <link>http://example.org/tags/gis/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gis/</guid>
+      <guid>http://example.org/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubc</title>
-      <link>/tags/ubc/</link>
+      <link>http://example.org/tags/ubc/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ubc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nasa</title>
-      <link>/tags/nasa/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/nasa/</guid>
+      <guid>http://example.org/tags/ubc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>remotesensing</title>
-      <link>/tags/remotesensing/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
+      <link>http://example.org/tags/remotesensing/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/remotesensing/</guid>
+      <guid>http://example.org/tags/remotesensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>/tags/research/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
+      <link>http://example.org/tags/research/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/research/</guid>
+      <guid>http://example.org/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>waterquality</title>
-      <link>/tags/waterquality/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
+      <link>http://example.org/tags/waterquality/</link>
+      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/waterquality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wetlands</title>
-      <link>/tags/wetlands/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/wetlands/</guid>
+      <guid>http://example.org/tags/waterquality/</guid>
       <description></description>
     </item>
     

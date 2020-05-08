@@ -3,106 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/mangroves-water-quality-in-cambodia/</loc>
+    <loc>http://example.org/post/mangroves-water-quality-in-cambodia/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nasa-develop/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>http://example.org/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/gem511/</loc>
+    <loc>http://example.org/post/gem511/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/land-use-change/</loc>
+    <loc>http://example.org/design/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>http://example.org/post/land-use-change/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cartography/</loc>
+    <loc>http://example.org/post/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/geospatial/</loc>
+    <loc>http://example.org/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/gis/</loc>
+    <loc>http://example.org/tags/cartography/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/ubc/</loc>
+    <loc>http://example.org/tags/geospatial/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/tags/gis/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/nasa/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/tags/ubc/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/remotesensing/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/tags/remotesensing/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/research/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/tags/research/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/research/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/tags/waterquality/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/waterquality/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/wetlands/</loc>
-    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   

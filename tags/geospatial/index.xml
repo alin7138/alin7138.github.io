@@ -2,42 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>geospatial on A L I C E • L I N</title>
-    <link>/tags/geospatial/</link>
+    <link>http://example.org/tags/geospatial/</link>
     <description>Recent content in geospatial on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/geospatial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://example.org/tags/geospatial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mangroves &amp; Water Quality in Cambodia</title>
-      <link>/post/mangroves-water-quality-in-cambodia/</link>
+      <link>http://example.org/post/mangroves-water-quality-in-cambodia/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/mangroves-water-quality-in-cambodia/</guid>
+      <guid>http://example.org/post/mangroves-water-quality-in-cambodia/</guid>
       <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
 Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
 Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
     </item>
     
     <item>
-      <title>NASA DEVELOP</title>
-      <link>/post/nasa-develop/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/post/nasa-develop/</guid>
-      <description>DEVELOP is a capacity building initiative under NASA&amp;rsquo;s Applied Sciences Program. As a participant, I undertook research projects that focus on the utility of earth observations in alleviating environmental issues. This program allowed me to gain knowledge and skills in remote sensing, coding, data visualization, and scientific writing. I also gained experience in engaging with stakeholders to identify and understand problems that could benefit from geospatial solutions.
-Projects Assessing Coastal Water Quality in Belize&amp;rsquo;s Coral Reefs</description>
-    </item>
-    
-    <item>
       <title>Land Use Change in Edmonton, AB</title>
-      <link>/post/land-use-change/</link>
+      <link>http://example.org/post/land-use-change/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/post/land-use-change/</guid>
+      <guid>http://example.org/post/land-use-change/</guid>
       <description>I conducted a land use change analysis for the area surrounding Edmonton, AB between 1966 and 1976 for my advanced GIS course. This involved using classified imagery and generating landscape metrics in Fragstats. Exerpts and figures from the report are below.
 Executive Summary: Urbanization and population growth have left impacts on the landscape surrounding Edmonton, AB. The urban built-up areas around the city increased from 19,596 ha to 54,995 ha between 1966 and 1976, translating to a doubling of the proportion of the land it previously occupied.</description>
     </item>
