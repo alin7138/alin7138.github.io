@@ -3,87 +3,111 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://alin7138.github.io/post/mangroves-water-quality-in-cambodia/</loc>
+    <loc>/post/mangroves-water-quality-in-cambodia/</loc>
     <lastmod>2020-05-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/</loc>
+    <loc>/post/nasa-develop/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/post/gem511/</loc>
+    <loc>/post/gem511/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/design/</loc>
+    <loc>/design/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/post/land-use-change/</loc>
+    <loc>/post/land-use-change/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/post/</loc>
-    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://alin7138.github.io/tags/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/cartography/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/geospatial/</loc>
+    <loc>/tags/cartography/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/gis/</loc>
+    <loc>/tags/geospatial/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/ubc/</loc>
+    <loc>/tags/gis/</loc>
     <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/remotesensing/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <loc>/tags/ubc/</loc>
+    <lastmod>2020-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/research/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/tags/waterquality/</loc>
-    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+    <loc>/tags/nasa/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://alin7138.github.io/categories/</loc>
+    <loc>/tags/remotesensing/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/research/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/waterquality/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/wetlands/</loc>
+    <lastmod>2020-05-04T18:17:26-07:00</lastmod>
     <priority>0</priority>
   </url>
   
