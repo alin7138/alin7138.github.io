@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on A L I C E • L I N</title>
-    <link>http://example.org/tags/</link>
+    <link>http://alin7138.github.io/tags/</link>
     <description>Recent content in Tags on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://alin7138.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>cartography</title>
-      <link>http://example.org/tags/cartography/</link>
+      <link>http://alin7138.github.io/tags/cartography/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/cartography/</guid>
+      <guid>http://alin7138.github.io/tags/cartography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geospatial</title>
-      <link>http://example.org/tags/geospatial/</link>
+      <link>http://alin7138.github.io/tags/geospatial/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/geospatial/</guid>
+      <guid>http://alin7138.github.io/tags/geospatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gis</title>
-      <link>http://example.org/tags/gis/</link>
+      <link>http://alin7138.github.io/tags/gis/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/gis/</guid>
+      <guid>http://alin7138.github.io/tags/gis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ubc</title>
-      <link>http://example.org/tags/ubc/</link>
+      <link>http://alin7138.github.io/tags/ubc/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/ubc/</guid>
+      <guid>http://alin7138.github.io/tags/ubc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>remotesensing</title>
-      <link>http://example.org/tags/remotesensing/</link>
+      <link>http://alin7138.github.io/tags/remotesensing/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/remotesensing/</guid>
+      <guid>http://alin7138.github.io/tags/remotesensing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>research</title>
-      <link>http://example.org/tags/research/</link>
+      <link>http://alin7138.github.io/tags/research/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/research/</guid>
+      <guid>http://alin7138.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>waterquality</title>
-      <link>http://example.org/tags/waterquality/</link>
+      <link>http://alin7138.github.io/tags/waterquality/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/waterquality/</guid>
+      <guid>http://alin7138.github.io/tags/waterquality/</guid>
       <description></description>
     </item>
     

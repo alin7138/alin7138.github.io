@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A L I C E • L I N</title>
-    <link>http://example.org/</link>
+    <link>http://alin7138.github.io/</link>
     <description>Recent content on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://alin7138.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mangroves &amp; Water Quality in Cambodia</title>
-      <link>http://example.org/post/mangroves-water-quality-in-cambodia/</link>
+      <link>http://alin7138.github.io/post/mangroves-water-quality-in-cambodia/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/mangroves-water-quality-in-cambodia/</guid>
+      <guid>http://alin7138.github.io/post/mangroves-water-quality-in-cambodia/</guid>
       <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
 Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
 Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
@@ -24,30 +24,30 @@ Graphical abstract Abstract Mangrove forests are a highly productive ecosystem t
     
     <item>
       <title>Cartography from GEM 511: Advanced GIS</title>
-      <link>http://example.org/post/gem511/</link>
+      <link>http://alin7138.github.io/post/gem511/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/gem511/</guid>
+      <guid>http://alin7138.github.io/post/gem511/</guid>
       <description>This is a collection of maps produced for my advanced GIS course. These were made using ArcGIS Pro and Adobe Illustrator CC.
  </description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>http://example.org/design/</link>
+      <link>http://alin7138.github.io/design/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/design/</guid>
+      <guid>http://alin7138.github.io/design/</guid>
       <description>Asides from geospatial work, I also enjoy various creative pursuits such as graphic design, illustration, and motion graphics.
 Science Communication I created animations (here and here) for my geospatial work at the NASA DEVELOP program. Daily Bruin I was the graphics editor and graphics senior staff at the Daily Bruin, UCLA&amp;rsquo;s national award-winning newspaper. I managed and trained reporters to produce daily infographics to accompany stories as well as standalones.</description>
     </item>
     
     <item>
       <title>Land Use Change in Edmonton, AB</title>
-      <link>http://example.org/post/land-use-change/</link>
+      <link>http://alin7138.github.io/post/land-use-change/</link>
       <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/land-use-change/</guid>
+      <guid>http://alin7138.github.io/post/land-use-change/</guid>
       <description>I conducted a land use change analysis for the area surrounding Edmonton, AB between 1966 and 1976 for my advanced GIS course. This involved using classified imagery and generating landscape metrics in Fragstats. Exerpts and figures from the report are below.
 Executive Summary: Urbanization and population growth have left impacts on the landscape surrounding Edmonton, AB. The urban built-up areas around the city increased from 19,596 ha to 54,995 ha between 1966 and 1976, translating to a doubling of the proportion of the land it previously occupied.</description>
     </item>

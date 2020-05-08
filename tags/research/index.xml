@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>research on A L I C E • L I N</title>
-    <link>http://example.org/tags/research/</link>
+    <link>http://alin7138.github.io/tags/research/</link>
     <description>Recent content in research on A L I C E • L I N</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/research/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://alin7138.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mangroves &amp; Water Quality in Cambodia</title>
-      <link>http://example.org/post/mangroves-water-quality-in-cambodia/</link>
+      <link>http://alin7138.github.io/post/mangroves-water-quality-in-cambodia/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/mangroves-water-quality-in-cambodia/</guid>
+      <guid>http://alin7138.github.io/post/mangroves-water-quality-in-cambodia/</guid>
       <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
 Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
 Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
