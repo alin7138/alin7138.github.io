@@ -44,7 +44,6 @@
       <h1 class="site-title"><a href="./">A L I C E • L I N</a></h1>
       <p class="site-tagline">geospatial • data viz • design</p>
       <p>
-        <left><img src="../../img/quaranscenes.png" /></left>
       </p>
       <div class="nav">
         <a class="nav-btn" href="#">
@@ -66,14 +65,14 @@
       </div>
     </div>
     <div>
-      <h1>Map</h1>
+      <h2 class="post-title">Explore my work</h2>
     </div>
     <div id="map"></div>
 
     <script>
       var map = L.map('map', {
         scrollWheelZoom: true
-      }).setView([20, 0], 2);
+      }).setView([20, 0], 1);
 
       var Stamen_Watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
         attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
