@@ -9,7 +9,7 @@ var locations = {
     },
     "properties": {
       "title": "Canada COVID-19 Cases",
-      "link":"https://alin7138.github.io/post/mangroves-water-quality-in-cambodia/",
+      "link":"./post/covid-cases-over-time/",
       "description": "I visualized the growth in COVID-19 cases in Canada using R."
     }
   },
@@ -21,7 +21,7 @@ var locations = {
     },
     "properties": {
       "title": "Mangroves & Water Quality Project",
-      "link":"https://alin7138.github.io/post/covid-cases-over-time/",
+      "link":"https://alin7138.github.io/post/mangroves-water-quality-in-cambodia/",
       "description":"My master's proof of concept project involved connected mangrove deforestation and coastal turbidity in Southwest Cambodia."
     }
   },
