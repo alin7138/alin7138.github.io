@@ -1,0 +1,26 @@
+---
+title: Google Earth Engine Mangrove Mapping Methodology
+author: ''
+date: '2022-04-12'
+slug: []
+categories: []
+tags: []
+image: img/landcover_comparison.png
+showonlyimage: no
+weight: 4
+---
+
+I worked with a team at Blue Ventures to develop a mangrove mapping tool in Google Earth Engine.
+
+<!--more-->
+
+**Skills and tools:** *QGIS, Google Earth Engine, RStudio*
+
+##### Contributions
+* generated hundreds of reference areas of different landcover types for classifier calibration and validation
+* automated creation of catalog of reference areas
+
+You can find our paper [here](https://www.mdpi.com/2072-4292/12/22/3758).
+
+![Mangrove spectral index](/img/mang_indx_updated.png)
+

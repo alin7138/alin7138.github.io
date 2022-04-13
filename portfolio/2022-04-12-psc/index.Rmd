@@ -1,0 +1,28 @@
+---
+title: Mapping Salmon Status and More
+author: ''
+date: '2022-04-12'
+slug: []
+categories: []
+tags: []
+image: img/psc_listing.PNG
+showonlyimage: no
+weight: 2
+---
+
+I created maps for an Earth Economics report on the sociocultural significance of salmon for Tribes and First Nations on the Pacific Coast.
+<!--more-->
+
+![salmon listing status map](/img/psc_listing.PNG)
+
+**Skills and tools:** *Mapbox, HTML, CSS, Javascript, ArcGIS*
+
+##### Contributions
+* created four webmaps with Mapbox to display listing statuses of salmon species, quotes from study participants, potential migration barriers, and Indigenous territories
+* adpated webmaps for print report
+
+Earth Economics was contracted by the [Pacific Salmon Commission](https://www.psc.org/) to conduct a study on the food, social, and ceremonial importance of salmon to Tribes and First Nations in the Pacific Salmon Treaty regions. The objectives and findings of the study as well as webmaps can be found [here](https://www.eartheconomics.org/psc)
+
+#### Potential Salmon Migration Barriers
+
+<iframe src="https://alin7138.github.io/psc_salmon_map/barriers_clusters" width="100%" height="480"></iframe>
