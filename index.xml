@@ -1,76 +1,153 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A L I C E • L I N</title>
-    <link>/</link>
-    <description>Recent content on A L I C E • L I N</description>
+    <title>Alice Lin</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Alice Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>COVID-19 Cases by Province - Animated Chart</title>
-      <link>/post/covid-cases-over-time/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <title>Coastal Water Quality Dashboard at NASA DEVELOP</title>
+      <link>https://example.org/portfolio/2022-04-12-belize/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>/post/covid-cases-over-time/</guid>
-      <description>Currently, collecting and tracking COVID-19 data is undoubtedly a global priority. With this abundance of open data on cases, I decided to try my hand at visualizing cases in Canada over time. The resulting graph is an animated bar chart showing confirmed cases by province. It is arranged by descending number of cases so as to highlight provinces with the most cases.
+      <guid>https://example.org/portfolio/2022-04-12-belize/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
-Early in the pandemic, British Columbia (BC) has a majority of cases, possibly owing to the high amount of international travel through Vancouver.</description>
+
+&lt;p&gt;Monitoring coastal turbidity and chlorophyll-a with remote sensing, powered by Google Earth Engine.
+</description>
     </item>
     
     <item>
-      <title>Mangroves &amp; Water Quality in Cambodia</title>
-      <link>/post/mangroves-water-quality-in-cambodia/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <title>Mapping Salmon Status and More</title>
+      <link>https://example.org/portfolio/2022-04-12-psc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/mangroves-water-quality-in-cambodia/</guid>
-      <description>For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.
-Skills: Google Earth Engine, R, land cover classification, data visualization, report writing
-Graphical abstract Abstract Mangrove forests are a highly productive ecosystem that provide numerous ecosystem services to coastal communities. Mangroves can trap sediments and filter out harmful substances from runoff. This water filtration will be crucial in mitigating the projected decline in water quality driven by increased human development and extreme precipitation due to climate change.</description>
+      <guid>https://example.org/portfolio/2022-04-12-psc/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I created maps for an Earth Economics report on the sociocultural significance of salmon for Tribes and First Nations on the Pacific Coast.
+</description>
     </item>
     
     <item>
-      <title>NASA DEVELOP</title>
-      <link>/post/nasa-develop/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
+      <title>Economic Analysis of Outdoor Recreation in Oregon</title>
+      <link>https://example.org/portfolio/2022-04-12-otc/</link>
+      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
       
-      <guid>/post/nasa-develop/</guid>
-      <description>DEVELOP is a capacity building initiative under NASA&amp;rsquo;s Applied Sciences Program. As a participant, I undertook research projects that focus on the utility of earth observations in alleviating environmental issues. This program allowed me to gain knowledge and skills in remote sensing, coding, data visualization, and scientific writing. I also gained experience in engaging with stakeholders to identify and understand problems that could benefit from geospatial solutions.
-Projects Assessing Coastal Water Quality in Belize&amp;rsquo;s Coral Reefs</description>
+      <guid>https://example.org/portfolio/2022-04-12-otc/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Spatial analysis, cartography, and design for an Earth Economics study on recreation in Oregon.
+</description>
     </item>
     
     <item>
-      <title>Cartography from GEM 511: Advanced GIS</title>
-      <link>/post/gem511/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <title>Advanced GIS Course at UBC</title>
+      <link>https://example.org/portfolio/2022-04-12-gem511/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/post/gem511/</guid>
-      <description>This is a collection of maps produced for my advanced GIS course. These were made using ArcGIS Pro and Adobe Illustrator CC.
- </description>
+      <guid>https://example.org/portfolio/2022-04-12-gem511/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Here is a selection of maps for a few class assignments.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>/design/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <title>Google Earth Engine Mangrove Mapping Methodology</title>
+      <link>https://example.org/portfolio/2022-04-12-gee-mangrove/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/design/</guid>
-      <description>Asides from geospatial work, I also enjoy various creative pursuits such as graphic design, illustration, and motion graphics.
-Science Communication I created animations (here and here) for my geospatial work at the NASA DEVELOP program. Daily Bruin I was the graphics editor and graphics senior staff at the Daily Bruin, UCLA&amp;rsquo;s national award-winning newspaper. I managed and trained reporters to produce daily infographics to accompany stories as well as standalones.</description>
+      <guid>https://example.org/portfolio/2022-04-12-gee-mangrove/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I worked with a team at Blue Ventures to develop a mangrove mapping tool in Google Earth Engine.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Land Use Change in Edmonton, AB</title>
-      <link>/post/land-use-change/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      <title>Economic Analysis of Washington State Parks</title>
+      <link>https://example.org/portfolio/2022-04-12-wa-parks/</link>
+      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
       
-      <guid>/post/land-use-change/</guid>
-      <description>I conducted a land use change analysis for the area surrounding Edmonton, AB between 1966 and 1976 for my advanced GIS course. This involved using classified imagery and generating landscape metrics in Fragstats. Exerpts and figures from the report are below.
-Executive Summary: Urbanization and population growth have left impacts on the landscape surrounding Edmonton, AB. The urban built-up areas around the city increased from 19,596 ha to 54,995 ha between 1966 and 1976, translating to a doubling of the proportion of the land it previously occupied.</description>
+      <guid>https://example.org/portfolio/2022-04-12-wa-parks/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Spatial analysis, cartography, and design for an Earth Economics study on recreation in Washington State Parks.
+</description>
+    </item>
+    
+    <item>
+      <title>Mangroves and Water Quality in Cambodia</title>
+      <link>https://example.org/portfolio/work5/</link>
+      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work5/</guid>
+      <description>&lt;p&gt;For my proof of concept project for my masters program, I investigated mangrove forest fragmentation and coastal turbidity in Southwest Cambodia.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Mapping Inundated Wetlands in Alaska</title>
+      <link>https://example.org/portfolio/work6/</link>
+      <pubDate>Sat, 05 Nov 2016 19:56:17 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work6/</guid>
+      <description>&lt;p&gt;For this NASA DEVELOP project, we used radar data to map wetlands.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Economic Analysis of the Lake Chelan Golf Course</title>
+      <link>https://example.org/portfolio/work7/</link>
+      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      
+      <guid>https://example.org/portfolio/work7/</guid>
+      <description>&lt;p&gt;Spatial analysis and cartography for an Earth Economics study on the Lake Chelan Golf Course.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello!</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/about/</guid>
+      <description>I am an early career GIS professional currently based in Vancouver, BC. I’m currently the GIS specialist for Earth Economics, a non-profit specializing in ecological economics that quantifies and values the benefits nature provides. I spent my undergraduate degree conducting ecological research in the marshes of California, coral reefs in French Polynesia, and tropical forests in Panama. These experiences led me to focus on ways to map, monitor, and protect these landscapes.</description>
+    </item>
+    
+    <item>
+      <title>psc</title>
+      <link>https://example.org/post/2022-04-12-psc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/post/2022-04-12-psc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      
+      <guid>https://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <description>
+&lt;script src=&#34;{{&lt; blogdown/postref &gt;}}index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;Spatial analysis, cartography, and design for an Earth Economics study on recreation in Oregon.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

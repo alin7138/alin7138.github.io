@@ -1,0 +1,29 @@
+---
+date: "2016-11-05T18:25:22+05:30"
+draft: false
+image: img/AESAS.png
+showonlyimage: false
+title: Coastal Water Quality Dashboard at NASA DEVELOP
+weight: 1
+---
+
+Monitoring coastal turbidity and chlorophyll-a with remote sensing, powered by Google Earth Engine.
+<!--more-->
+
+![Turbidiy map around Belize City](/img/AESAS.png)
+
+
+**Skills and tools:** *Google Earth Engine, Javascript, remote sensing*
+
+##### Contributions
+* co-lead a team of four based at the Jet Propulsion Lab and Ames Research Center
+* created the user interface features (date filters, region of interest, types of outputs, time slider)
+* presented dashboard demo at JPL Earth Sciences intern showcase
+
+<br>
+
+The Belize Barrier Reef is one of the largest coral reef systems in the world, providing services such as tourism and fisheries which total to about 12-15% of the nation's GDP. With increasing anthropogenic impacts that influence coastal water quality, we worked with partners to create a tool that outputs a time series of sea surface temperatures, turbidity, and chlorophyll-a concentrations. These parameters are derived from Landsat 8, Sentinel-2, and MODIS satellite imagery. This tool can be used to identify reef areas experiencing depreciating water quality, inform areas in need of protection, and examine coastal changes after large disturbances.
+
+Learn more about this project [here](https://develop.larc.nasa.gov/2019/summer/BelizeWater.html) and the NASA DEVELOP program [here](https://develop.larc.nasa.gov/about.php).
+
+![](/img/orcaa_demo.gif)

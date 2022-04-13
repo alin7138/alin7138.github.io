@@ -1,0 +1,15 @@
+---
+title: Hello!
+author: ''
+date: '2022-04-12'
+slug: []
+categories: []
+tags: []
+---
+I am an early career GIS professional currently based in Vancouver, BC. I'm currently the GIS specialist for [Earth Economics](https://www.eartheconomics.org/), a non-profit specializing in ecological economics that quantifies and values the benefits nature provides. I spent my undergraduate degree conducting ecological research in the marshes of California, coral reefs in French Polynesia, and tropical forests in Panama. These experiences led me to focus on ways to map, monitor, and protect these landscapes. When I'm not making maps, I'm probably taking naps.
+
+
+You can find my LinkedIn profile [here](https://www.linkedin.com/in/alicelin14/) and my CV below.
+
+
+<iframe src="https://drive.google.com/file/d/1leMwfahxCM-WJQ55S5AflIJuFLmtz0B9/preview" width="100%" height="800"></iframe>

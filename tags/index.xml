@@ -1,130 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A L I C E • L I N</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on A L I C E • L I N</description>
+    <title>Tags on Alice Lin</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Alice Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>covid</title>
-      <link>/tags/covid/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <title>plot</title>
+      <link>https://example.org/tags/plot/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/covid/</guid>
+      <guid>https://example.org/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dataviz</title>
-      <link>/tags/dataviz/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <title>R Markdown</title>
+      <link>https://example.org/tags/r-markdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/dataviz/</guid>
+      <guid>https://example.org/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>r</title>
-      <link>/tags/r/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <title>regression</title>
+      <link>https://example.org/tags/regression/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tutorial</title>
-      <link>/tags/tutorial/</link>
-      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tutorial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cartography</title>
-      <link>/tags/cartography/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cartography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>geospatial</title>
-      <link>/tags/geospatial/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/geospatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>gis</title>
-      <link>/tags/gis/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/gis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ubc</title>
-      <link>/tags/ubc/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ubc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nasa</title>
-      <link>/tags/nasa/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/nasa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>remotesensing</title>
-      <link>/tags/remotesensing/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/remotesensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>/tags/research/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>waterquality</title>
-      <link>/tags/waterquality/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/waterquality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wetlands</title>
-      <link>/tags/wetlands/</link>
-      <pubDate>Mon, 04 May 2020 18:17:26 -0700</pubDate>
-      
-      <guid>/tags/wetlands/</guid>
+      <guid>https://example.org/tags/regression/</guid>
       <description></description>
     </item>
     
