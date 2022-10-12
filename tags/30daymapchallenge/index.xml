@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Alice Lin</title>
-    <link>https://alin7138.github.io/categories/r/</link>
-    <description>Recent content in R on Alice Lin</description>
+    <title>30DayMapChallenge on Alice Lin</title>
+    <link>https://alin7138.github.io/tags/30daymapchallenge/</link>
+    <description>Recent content in 30DayMapChallenge on Alice Lin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://alin7138.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://alin7138.github.io/tags/30daymapchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Points</title>
       <link>https://alin7138.github.io/post/2020-12-01-r-rmarkdown/</link>

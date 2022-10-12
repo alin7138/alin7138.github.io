@@ -1,0 +1,29 @@
+---
+date: "2016-11-05T19:50:47+05:30"
+draft: false
+image: "img/wdfw_cover.PNG"
+showonlyimage: false
+title: Using Mobile Device Data to Estimate Visitation and Economic Contributions to State Recreation Lands
+weight: 1
+---
+Big data, cartography and report design.
+<!--more-->
+
+![Report infographic showing origins of WA state land visitors](/img/wdfw_infographic.PNG)
+
+**Skills and tools:** *ArcGIS, QGIS, Google BigQuery, Adobe Illustrator, Adobe InDesign, network analysis*
+
+##### Contributions
+* Processed > 90 billion mobile device location data points between 2019 and early 2021
+* Derived attributes for each recreation land unit to be used in visitation model (eg. population w/in 5 mi, climate, air quality, campgrounds present)
+* Generated 50 mi road networks for each recreation land unit to refine economic contribution analysis
+* Designed final report
+
+You can find the final report [here.](https://www.eartheconomics.org/all-publications/2022/wdfw)
+
+<!-- #### Selected Maps -->
+<!-- ![State Parks service areas](/img/ServiceAreas_labeled_crop_v2.png) -->
+
+<!-- ![Percent of County Employment](/img/spending_by_county.png) -->
+
+<!-- ![Population within 50 miles of State Parks](/img/PopDensity_wlegend.png) -->

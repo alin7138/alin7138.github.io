@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alin7138.github.io/portfolio/wdfw/</loc>
+    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+  </url><url>
     <loc>https://alin7138.github.io/portfolio/2022-04-12-belize/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url><url>
@@ -30,7 +33,22 @@
     <lastmod>2016-11-05T19:57:40+05:30</lastmod>
   </url><url>
     <loc>https://alin7138.github.io/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/post/2022-10-11-content-portfolio-wdfw-cellphone-2022/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/post/2022-10-11-d-portfolio-2022-content-portfolio-wdfw/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/post/2022-10-11-portfolio-wdfw-cellphone-2022/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/post/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/post/2022-10-11-work10/</loc>
+    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://alin7138.github.io/about/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
@@ -38,11 +56,11 @@
     <loc>https://alin7138.github.io/portfolio/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://alin7138.github.io/post/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://alin7138.github.io/post/2022-04-12-psc/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alin7138.github.io/tags/30daymapchallenge/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://alin7138.github.io/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
@@ -50,16 +68,7 @@
     <loc>https://alin7138.github.io/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://alin7138.github.io/tags/plot/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
     <loc>https://alin7138.github.io/categories/r/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://alin7138.github.io/tags/r-markdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-  </url><url>
-    <loc>https://alin7138.github.io/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
     <loc>https://alin7138.github.io/tags/</loc>

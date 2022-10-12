@@ -7,7 +7,7 @@ title: Economic Analysis of Outdoor Recreation in Oregon
 weight: 2
 ---
 
-Spatial analysis, cartography, and design for an Earth Economics study on recreation in Oregon.
+Spatial analysis, cartography, and design for an Earth Economics study on recreation in Oregon. 
 <!--more-->
 
 ![Oregon](/img/OR_TopoOnly_crop.png)
@@ -23,6 +23,10 @@ Earth Economics conducted a study on the impacts of the outdoor recreation econo
 
 #### Selected Maps
 ![Indigenous Territories](/img/Indigenous_Territories_v1.png)
+
+![Oregon Fishing Zones](/img/OR_FishingZones.png)
+
+![Oregon Tourism Regions](/img/OR_TourismRegions.png)
 
 ![Spending](/img/PopWeightedSpending.png)
 
